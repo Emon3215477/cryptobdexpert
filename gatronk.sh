@@ -48,7 +48,7 @@ echo "Hardhat configuration completed."
 
 echo "Creating Hello_swtr.sol contract..."
 mkdir -p contracts
-cat <<EOL > contracts/Hello_swtr.sol
+cat <<EOL > contra/Hello_swtr.sol
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.19;
 
